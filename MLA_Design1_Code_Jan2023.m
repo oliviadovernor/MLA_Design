@@ -1,5 +1,5 @@
 % Generate 15x15 grid for Powerphotonics
-% Boya
+% Boya and Olivia (design MLA 2023)
 clear; clc; 
 
 lambda = 640e-9;
